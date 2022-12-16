@@ -10,7 +10,7 @@ body {
 .container {
   width: 1200px;
   height: 100vh;
-  margin: 50px auto;
+  margin: 100px auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,7 +31,7 @@ body {
 				0 0 50px #e60073,
 				0 0 60px #e60073,
 				0 0 70px #e60073;
-	animation: box .8s infinite alternate;
+	animation: box .5s infinite alternate;
 }
 @keyframes box {
   to {
